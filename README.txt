@@ -10,4 +10,4 @@ desde a concepção do desafio à publicação do algoritmo treinado em um ambie
 utilizando ferramentas de computação em nuvem.
 
 
-Sinta-se á vontade para entrar em contato atravéz dos links no final da pagina.
+
